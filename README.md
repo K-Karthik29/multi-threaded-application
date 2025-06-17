@@ -13,7 +13,7 @@ duration:4 weeks
 mentor:neela santosh
 
 out put:
-
+(https://github.com/user-attachments/assets/124e4b91-0e18-4ac3-a281-14149ccac923)
 about the project:
 This project demonstrates a simple, multi-user chat application built using Java's Socket and Multithreading features. It allows multiple users to connect to a server and communicate in real-time.
 
